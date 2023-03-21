@@ -1,0 +1,42 @@
+.contenedor{
+  display: flex
+  
+}
+
+.add-btn {
+  border-radius: 40px;
+  font-size: 40px;
+  padding: 20px;
+  background-color: green;
+  color: white;
+  margin-bottom: 20px;
+}
+
+
+.delete-btn {
+  background-color: red;
+  border-radius: 20px;
+  font-size: 35px;
+  padding: 5px 10px;
+}
+
+.container {
+border: 2px solid black;
+width: fit-content;
+margin: 50px auto;
+padding: 10px;
+}
+
+p{
+  text-align: center;
+margin-left: 38px;
+}
+
+.list-btn{
+  border-radius: 20px;
+  text-align: center;
+  padding: 13px;
+  background-color: cadetblue;
+  color: white;
+  font-weight: 600;
+}
